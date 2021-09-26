@@ -1,6 +1,7 @@
 - Introduction
 
   - [Smart Gross](quickstart.md)
+  - [Technologies Used](technologies.md)
   - [About Us](more-pages.md)
 
 - Frontend
@@ -14,8 +15,9 @@
 
 - Backend
 
-  - [Introduction](deploy.md)
-  - [Installation](deploy.md)
-  - [Algorithm](attributes.md)
-  - [Attributes](vue.md)
+  - [Introduction](backend_introduction.md)
+  - [Installation](backend_installation.md)
+  - [Routes and Functions](backend_routesFunctions.md)
+  - [Algorithm](algorithm.md)
+  - [Attributes](attributes.md)
   - [Datasets](cdn.md)
